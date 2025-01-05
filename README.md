@@ -1,5 +1,5 @@
-# Breast Mass Detection with CNN and Autoencoders
+# Brain Tumor Classification with CNN
 
-Built a deep learning pipeline incorporating CNNs and Autoencoders to classify benign and malignant masses in mammography images. Leveraged a dataset integrating INbreast, MIAS, and DDSM sources with over 24,000 augmented images resized to 227x227 pixels. Preprocessing involved data augmentation and contrast-limited adaptive histogram equalization to improve feature detection and diagnostic accuracy.
+Developed a Convolutional Neural Network (CNN) model for the detection and multi-class classification of brain tumors using a combined dataset comprising 7,023 MRI images categorized into glioma, meningioma, pituitary, and no tumor. The project utilized pre-processing techniques, including resizing and margin removal, to enhance model accuracy. Focused on improving early diagnosis and segmentation of tumor locations to aid in selecting appropriate treatment methods.
 
-Dataset link: https://data.mendeley.com/datasets/ywsbh3ndr8/5
+Dataset link: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
